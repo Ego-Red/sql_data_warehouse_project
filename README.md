@@ -21,6 +21,8 @@ To Create a modern Data warehouse Using mediallion Architecture in Sql Server to
 
 - **Analysis & Reporting**: Queried warehouse data to generate insights and support reporting needs.
 
+---
+
 ### BI : Analytics & Reporting (Data Analytics)
 #### Objective
 Develop Sql based Analytics to 
@@ -28,6 +30,11 @@ Develop Sql based Analytics to
 - **Analytical Queries**: Wrote SQL queries to analyze warehouse data and answer business questions.
 
 - **Insight Communication**: Translated data findings into clear, actionable insights for stakeholders.
+
+---
+
+## About Me
+Hello, I’m Abhishek Rana — a curious learner with a background in mechanical engineering. I’ve worked on a few startups that didn’t work out, mainly due to gaps in understanding the market and trends. That experience pushed me toward analytics, where I enjoy using data to understand patterns and make better decisions. Everything I’ve learned so far is self-taught, so this repository is a place to track, share, and review my progress or lack of it :P.
 
 
 
