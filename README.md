@@ -34,7 +34,7 @@ Develop Sql based Analytics to
 ---
 
 ## About Me
-Hello, I’m Abhishek Rana — a curious learner with a background in mechanical engineering. I’ve worked on a few startups that didn’t work out, mainly due to gaps in understanding the market and trends. That experience pushed me toward analytics, where I enjoy using data to understand patterns and make better decisions. Everything I’ve learned so far is self-taught, so this repository is a place to track, share, and review my progress or lack of it :P.
+Hello, I’m Abhishek Rana — a curious learner with a background in mechanical engineering. I’ve worked on a few endeavors that didn’t work out, mainly due to gaps in understanding the market and trends. That experience pushed me toward analytics, where I enjoy using data to understand patterns and make better decisions. Everything I’ve learned so far is self-taught, so this repository is a place to track, share, and review my progress or lack of it :P.
 
 
 
